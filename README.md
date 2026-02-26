@@ -1,6 +1,6 @@
 # Papers – Sean Carroll
 
-Research papers by Sean Carroll exploring AI, archives and early computer art. These works focus on how large language models, retrieval systems and computational methods can support archival interpretation, preservation and curatorial practice.
+Research papers by Sean Carroll as part of my doctoral reserach 2021-2025 exploring AI, archives and early computer art. These works focus on how large language models, retrieval systems and computational methods can support archival interpretation, preservation and curatorial practice.
 
 Author: Sean Carroll  
 Writer, producer and curator based in Leicester, UK  
