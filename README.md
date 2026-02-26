@@ -64,7 +64,6 @@ This paper documents the reconstruction of Ernest Edmonds’ historic interactiv
 
 Please cite the official conference proceedings where available.
 
-Example format (Harvard style):
 
 Carroll, S. (2023) Advancing Curatorial Practice with Archives using AI. In: Proceedings of Electronic Visualisation and the Arts (EVA London 2023). London: BCS.
 
